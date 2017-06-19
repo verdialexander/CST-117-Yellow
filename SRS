@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+CST-117
+
+Yellow Group
+
+Alexander Verdi
+
+Brenton Hodge
+
+Software Requirements Specification
+
+
+ 
+1.	Introduction
+
+The following document will outline the use of the developed inventory software for McNally Enterprises Inc. for use by Project Managers, Department Heads and Dock Managers. Questions for Client
+
+2.	Questions for Client.
+a.	Will the software be primarily for internal use or external use?
+b.	Which information is most critical for reporting?
+c.	How should reports be generated? (within software, exported as document, emailed, etc.)
+d.	How many criteria should be considered for each item? (Quantity, Size, Material, etc.)
+e.	How should metrics be reported? (Spreadsheet, Graph, etc.)
+3.	Answers from Client
+a.	Software will be for internal use as a system to maintain and upkeep equipment. 
+b.	The most important criteria to keep track of will be location, status, when it was checked out, when it was checked in, and how it was transported. Such as a box truck or employee vehicle.
+c.	Reports should be viewable within the software and be able to be exported as a PDF
+d.	Criteria constantly change as new equipment or shows become available, so an editable field with different data types (quantity, date, times, job etc.)
+e.	An easy to view table to check usage count and each in/out log with date stamps would be preferred.
+4.	Needs based off Answers from client
+a.	Software will be used for inventory status and location tracking for internal use within the company.
+b.	Software will allow new items to be created at will, each new item will have options for current location, status, check in date/time, check out date/time, and temporary location field to show which vehicle is transporting it to and from a location.
+c.	All records should be viewable within the software and exportable as a pdf with selectable fields to include within the report
+d.	New data points should be creatable at will for each item, items should be able to be grouped for ease of managing inventory.
+e.	Reports should be generated as a table giving total number of check outs as well as individual in/out date/time stamps.
+5.	Use Case
+a.	 
+b.	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Item:	Status:	Location	Check-In	Check-Out	Add Field+
+S4 Leko	In Stock	Warehouse	06/08/17	N/A	
+Mac Aura	On Event	Event 1	06/08/17	06/10/17	
+
